@@ -1,0 +1,44 @@
+{
+  "concept_by": "Samuel Acuña",
+  "practice": "Dr. Mauricio Soto",
+  "official_website": "https://www.doctormauriciosoto.com/",
+  "reviewed": "2026-10-29",
+  "images": [
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://static.wixstatic.com/media/c06fe8_e524427999554c2a99eec11b93dcbeef%7Emv2.webp",
+      "source_page": "https://www.doctormauriciosoto.com/",
+      "role": "hero",
+      "original_caption": "embedded"
+    },
+    {
+      "file": "assets/portrait.webp",
+      "source_url": "https://static.wixstatic.com/media/c06fe8_77849ec5196c4f3da578c111785514e6%7Emv2.jpg",
+      "source_page": "https://www.doctormauriciosoto.com/",
+      "role": "portrait",
+      "original_caption": "embedded"
+    },
+    {
+      "file": "assets/detail.webp",
+      "source_url": "https://static.wixstatic.com/media/c06fe8_23750ee617eb4bc2ad4c29bf89f1c60d~mv2.webp/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/porcelain%20veneers%20before%20and%20after%2099_avif4.webp",
+      "source_page": "https://www.doctormauriciosoto.com/",
+      "role": "detail",
+      "original_caption": "porcelain veneers before and after "
+    },
+    {
+      "file": "assets/case1.webp",
+      "source_url": "https://static.wixstatic.com/media/c06fe8_575a01b35a9149b98824b524c9d538b7~mv2.webp/v1/fill/w_600,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c06fe8_575a01b35a9149b98824b524c9d538b7~mv2.webp",
+      "source_page": "https://www.doctormauriciosoto.com/",
+      "role": "case1",
+      "original_caption": "Diseño de Sonrisa Bucaramanga"
+    },
+    {
+      "file": "assets/case2.webp",
+      "source_url": "https://static.wixstatic.com/media/c06fe8_25fb0303eb544763b23ddfb43237fd46~mv2.webp/v1/fill/w_600,h_392,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c06fe8_25fb0303eb544763b23ddfb43237fd46~mv2.webp",
+      "source_page": "https://www.doctormauriciosoto.com/",
+      "role": "case2",
+      "original_caption": "Diseño de Sonrisa Bucaramanga Antes y Despues\n"
+    }
+  ],
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+}
