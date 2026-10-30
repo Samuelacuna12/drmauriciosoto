@@ -2,7 +2,7 @@
   "concept_by": "Samuel Acuña",
   "practice": "Dr. Mauricio Soto",
   "official_website": "https://www.doctormauriciosoto.com/",
-  "reviewed": "2026-10-29",
+  "reviewed": "2026-10-30",
   "images": [
     {
       "file": "assets/hero.webp",
@@ -40,5 +40,7 @@
       "original_caption": "Diseño de Sonrisa Bucaramanga Antes y Despues\n"
     }
   ],
-  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised.",
+  "medical_revision": [],
+  "design_status": "Medical identity revision following user feedback"
 }
